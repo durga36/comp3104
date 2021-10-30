@@ -1,0 +1,2 @@
+DevOps provides a competitive advantge to organizations by allowing them to improve and create products faster.
+It's important because it's a software development and operations approach that allows faster development of new products and easier maintenance of existing deployments.

@@ -1,0 +1,2 @@
+The DevOps course introduces students to GitHub and helps them get comfortable with git bash and other bash command line.
+Students get exposed to github, travis-ci, docker, kubernetes, and sonarqube.
